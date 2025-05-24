@@ -1,1 +1,0 @@
-print("tambahin baris lagi") 
